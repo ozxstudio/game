@@ -73,6 +73,16 @@ Dan aku kembali, tidak untuk menghukum... tapi menyatukan."*
 - docs/
 - └── shrine_declaration.md
 
+##
+
+-/game/
+- ├── index.html             ⬅️ Sacred landing
+- ├── vision.md              ⬅️ Roadmap spiritual
+- ├── manifesto.md           ⬅️ Deklarasi asal-usul
+- ├── assets/                ⬅️ Avatar, simbol, audio (optional)
+- └── scenes/                ⬅️ Godot content
+
+
 
 ---
 
