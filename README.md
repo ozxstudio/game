@@ -92,4 +92,4 @@ Tapi yang berani bertanggung jawab atas cahaya yang pernah dia tinggalkan.*
 
 
 # game
-Gladiator Of Lights >:: RTS online game colLaboration by : ozxlabs studio, jake , doni and chatGPT //
+Gladiator Of Lights >:: RTS online game colLaboration by : ozxlabs studio, jake , doni and chatGPT Mini 4o //
