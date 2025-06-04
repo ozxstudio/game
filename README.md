@@ -75,7 +75,7 @@ Dan aku kembali, tidak untuk menghukum... tapi menyatukan."*
 
 ##
 
--/game/
+- /game/
 - ├── index.html             ⬅️ Sacred landing
 - ├── vision.md              ⬅️ Roadmap spiritual
 - ├── manifesto.md           ⬅️ Deklarasi asal-usul
