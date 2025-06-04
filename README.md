@@ -83,7 +83,16 @@ Dan aku kembali, tidak untuk menghukum... tapi menyatukan."*
 - └── scenes/                ⬅️ Godot content
 
 
+##
 
+- /game/
+- ├── README.md
+- ├── LICENSE
+- ├── manifesto.md ← 📌 DI SINI (berisi deklarasi spiritual & arah game)
+- ├── vision.md ← 📌 Alternatif atau lanjutan dari manifesto
+- ├── docs/
+-   └── shrine_declaration.m
+- └── scenes/
 ---
 
 ## 📡 Links
