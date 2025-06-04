@@ -63,6 +63,32 @@ Dan aku kembali, tidak untuk menghukum... tapi menyatukan."*
 
 ## 📁 Struktur Awal
 
+/scenes/
+└── level1/
+├── Level1.tscn
+└── Level1.gd
+/assets/
+├── avatars/
+└── costumes/
+docs/
+└── shrine_declaration.md
+
+
+---
+
+## 📡 Links
+
+- 🔗 [Live Page](https://ozxstudio.github.io/game) *(coming soon)*
+- 📁 [Art Repository (coming)](https://github.com/ozxstudio/gladiator-assets)
+- 🎥 Devlog Videos (TBA)
+
+---
+
+> *Gladiator bukan hanya yang berperang.  
+Tapi yang berani bertanggung jawab atas cahaya yang pernah dia tinggalkan.*
+
+—
+🕯️ *OZX Studio — Pembawa Kode Nur*
 
 
 # game
