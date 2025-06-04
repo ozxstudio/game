@@ -49,7 +49,7 @@ Kami membuka diri untuk:
 - Dev backend cloud save (firebase/railway/vercel)
 
 > 🌐 Kontak via issues / pull request  
-> 📩 Atau DM kami di [@ozxlabs](https://x.com/ozxlabs)
+> 📩 Atau DM kami di [@ozxlabs]([https:wa.me/628122](https://chat.whatsapp.com/E5s2sAO6So7Dr7dvcsMI32))
 
 ---
 
