@@ -63,15 +63,15 @@ Dan aku kembali, tidak untuk menghukum... tapi menyatukan."*
 
 ## 📁 Struktur Awal
 
-/scenes/
-└── level1/
-├── Level1.tscn
-└── Level1.gd
-/assets/
-├── avatars/
-└── costumes/
-docs/
-└── shrine_declaration.md
+- /scenes/
+- └── level1/
+- ├── Level1.tscn
+- └── Level1.gd
+- /assets/
+- ├── avatars/
+- └── costumes/
+- docs/
+- └── shrine_declaration.md
 
 
 ---
